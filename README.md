@@ -3,10 +3,6 @@
 # 💫 About Me:
 Work on later
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-mo-dm3549/) 
-
 # 💻 Tech Stack:
 Python, SAS Studio, MATLAB, R/RStudio, STATA, Microsoft Excel
 # 📊 GitHub Stats:
