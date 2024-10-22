@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
 # 💫 About Me:
 Work on later
