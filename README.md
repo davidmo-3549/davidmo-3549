@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a recent graduate of the M.S. in Applied Economics program at Johns Hopkins University, with a B.A. in Economics at the University of Texas at Austin. My studies lay at the intersection of finance and economic analysis, combining a strong understanding of financial markets with economic modeling and quantitative methods.
 
-Projects I have worked on have included Vector Autoregression (VAR) asset price prediction models, fixed effects panel regressions for estimating the macroeconomic impacts of minimum wages, Dynamic Stochastic General Equilibrium (DSGE) models for analyzing real business cycles, and machine learning algorithms such as neural network classification models. Some of my work can be referenced at https://github.com/davidmo-3549.
+Projects I have worked on have included Vector Autoregression (VAR) asset price prediction models, fixed effects panel regressions for estimating the macroeconomic impacts of minimum wages, Dynamic Stochastic General Equilibrium (DSGE) models for analyzing real business cycles, and machine learning algorithms such as neural network classification models. Some of my work can be referenced in my public repository labeled david_mo_portfolio.
 
 I have additional work experience in the financial sector at Fidelity Investments, where I obtained my Series 7 and 63 licenses, managed numerous financial and client-relationship tasks, and achieved a 100% trade accuracy throughout my tenure. 
 
