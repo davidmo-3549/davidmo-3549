@@ -7,11 +7,10 @@ Projects I have worked on have included Vector Autoregression (VAR) asset price 
 
 I have additional work experience in the financial sector at Fidelity Investments, where I obtained my Series 7 and 63 licenses, managed numerous financial and client-relationship tasks, and achieved a 100% trade accuracy throughout my tenure. 
 
-I look forward to connecting on LinkedIn, and can also be reached at davidmo3549@gmail.com.
-
+I look forward to connecting on [LinkedIn](https://www.linkedin.com/in/david-mo-dm3549/), and can also be reached at davidmo3549@gmail.com.
 
 # 💻 Tech Stack:
-Python, SAS Studio, MATLAB, R/RStudio, STATA, Microsoft Excel
+Python, SAS Studio, MATLAB, Dynare, R/RStudio, STATA, Microsoft Excel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidmo-3549&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidmo-3549&theme=vue&hide_border=false)<br/>
