@@ -10,7 +10,7 @@ I have additional work experience in the financial sector at Fidelity Investment
 I look forward to connecting on [LinkedIn](https://www.linkedin.com/in/david-mo-dm3549/), and can also be reached at davidmo3549@gmail.com.
 
 # 💻 Tech Stack:
-Python, SAS Studio, MATLAB, Dynare, R/RStudio, STATA, Microsoft Excel
+Python, SAS Studio, MATLAB, Dynare, R/RStudio, STATA, Microsoft Excel, Power BI
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidmo-3549&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidmo-3549&theme=vue&hide_border=false)<br/>
